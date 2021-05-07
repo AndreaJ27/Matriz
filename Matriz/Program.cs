@@ -71,14 +71,14 @@ namespace Matriz
                 }
 
                 promedio = sumatoria / 28.0;
-                Console.WriteLine("El promedio total {0}{1}", n, promedio);
+                Console.WriteLine("El promedio total {0}", n, promedio);
             }
 
 
             sumatoria = 0.0;
             promedio = 0.0;
             promedio = sumatoria / 28.0;
-            Console.WriteLine("El promedio total {0}{1} ",n,promedio);
+            Console.WriteLine("El promedio total {0} ",n,promedio);
             
             Console.ReadKey();
 
